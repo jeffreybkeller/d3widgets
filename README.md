@@ -13,7 +13,7 @@ For example:
     <div id="animeIcon"></div>
 
     <!-- Javascript function to draw object -->
-    implementAnimated("#animeIcon", "", "12:30", "\uf017", "Hours Spent");
+    animatedStatistic("#animeIcon", "", "12:30", "\uf017", "Hours Spent");
 
 Each Javascript function is implemented in either 
 animated.js or iconbg.js
